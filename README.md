@@ -1,6 +1,13 @@
 # Under-represented groups in tech hiring resources
 
-Resources to assist in hiring under-represented groups in tech product teams. Includes tech, product, and design hiring resources
+Resources to assist in hiring under-represented groups in tech product teams. 
+
+Covers hiring for:
+
+- Tech
+- Product
+- Design
+- UX
 
 | Organisation name                                            | Locations | Twitter                                                 | Keywords                    | Area    | Type      | Notes |
 | ------------------------------------------------------------ | --------- | ------------------------------------------------------- | --------------------------- | ------- | --------- | ----- |
